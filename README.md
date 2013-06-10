@@ -23,5 +23,4 @@ Compreendi melhor algumas ferramentas do photoshop, a organizar melhor o código
 
 - Layout em psd baixado gratuitamente no dia 14/05.
 
-(google)[http://br.freepik.com/index.php?goto=41&idd=597752&url=aHR0cDovL3hvb3BsYXRlLmNvbS90ZW1wbGF0ZS9kZXRhaWxzLzI2MjctZWNvLWJ1c2luZXNzLXBzZC10ZW1wbGF0ZQ==
-	-]
+[http://br.freepik.com/](http://br.freepik.com/index.php?goto=41&idd=597752&url=aHR0cDovL3hvb3BsYXRlLmNvbS90ZW1wbGF0ZS9kZXRhaWxzLzI2MjctZWNvLWJ1c2luZXNzLXBzZC10ZW1wbGF0ZQ==)
