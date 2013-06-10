@@ -1,5 +1,3 @@
-/*--FONTES--*/
-
 @font-face {
 font-family: 'MyriadPro-BoldCond';
 src: url('../fonts/MyriadPro-BoldCond.eot');
@@ -42,7 +40,7 @@ src: local('MyriadPro-Regular'),
 	font-style: normal;
 }
 
-/*--BODY, CABECALHO--*/
+/*- CABECALHO--*/
 
 body{
 	background: transparent url(../img/imagens/background.png) top center no-repeat;
@@ -77,8 +75,6 @@ header{
 	color: white;
 }
 
-/*--CSS PARA TODOS--*/
-
 #conteudo{
 	display: inline-block;
 	margin: 0 0 0 70px;
@@ -104,14 +100,8 @@ header{
 	text-decoration: none;
 }
 
-.icon-plus{
-	display: inline-block;
-	background-image: url(../img/imagens/bottom.png);
-	height: 10px;
-	margin: 0 5px;
-	width: 10px;
-}
 #conteudo p{
+    color: #848484;
 	font-family: Tahoma;
 	font-size: 11px;
 }
@@ -140,18 +130,18 @@ hr{
 
 
 
-#cont1 p span{
+#box1 p span{
 	font-family: Arial;
 	font-size: 10px;
 	text-transform: uppercase;
 	color: #cdcdcd;
 }
 
-#cont1 img{
+#box1 img{
 	float: left;
 }
 
-#cont1 h2{
+#box1 h2{
 	display: block;
 	float: left; 
 	width: 120px;
@@ -164,11 +154,11 @@ hr{
 }
 
 
-#cont1 p a{
+#box1 p a{
 	color: #848484;
 }
 
-/*--POSICIONAMENTO IMAGENS--*/
+/*--POSICIONAMENTO--*/
 
 #left{
 	float: left;
@@ -183,7 +173,7 @@ hr{
 
 /*--QUADRO 2--*/
 
-#cont2 img{
+#box2 img{
 	float: left;
 	margin-right: 10px;
 }
@@ -193,14 +183,14 @@ hr{
 }
 
 
-#cont2 p a{
+#box2 p a{
 	width: 100px;
 	font-family: Tahoma;
 	font-size: 10px;
 	color: #848484;
 }
 
-#cont2 h2{
+#box2 h2{
 	font-family: Tahoma;
 	font-size: 11px;
 	color: #abb820;
@@ -212,23 +202,23 @@ hr{
 	color: #848484;
 }
 
-#cont3 p span{
+#box3 p span{
 	font-family: Tahoma;
 	font-size: 12px;
 	font-weight: bold;
 	color: #abb820;
 }
 
-#cont3 ul{;
+#box3 ul{;
 	list-style-type: none
 }
 
-#cont3 li{
+#box3 li{
 	margin: 5px 0 0 -30px;
 	font-weight: bold;
 }
 
-#cont3 a{
+#box3 a{
 	font-family: Tahoma;
 	font-size: 10px;
 	text-decoration: none;
@@ -237,11 +227,11 @@ hr{
 
 /*--QUADRO 4--*/
 
-#cont4 img{
+#box4 img{
 	float: left;
 }
 
-#cont4 h2{
+#box4 h2{
 	font-family: 'MyriadPro-Regular';
 	font-size: 16px;
 	text-transform: uppercase;
@@ -249,11 +239,11 @@ hr{
 	color: #abb820;
 }
 
-#cont4 h2 span{
+#box4 h2 span{
 	font-family: 'MyriadPro-BoldCond';
 }
 
-#cont4 p a{
+#box4 p a{
 	color: #848484;
 }
 
@@ -281,10 +271,18 @@ hr{
 	padding: 0 0 0 15px;
 	font-family:  Tahoma;
 	font-weight: normal;
-	font-size: 14px;
+	font-size: 11px;
 	
 }
 
 #text a{
 	color: #848484;
+}
+
+.icon-plus{
+	display: inline-block;
+	background-image: url(../img/imagens/bottom.png);
+	height: 10px;
+	margin: 0 5px;
+	width: 10px;
 }
