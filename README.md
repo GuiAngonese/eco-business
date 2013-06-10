@@ -8,12 +8,10 @@ Nos alinhamentos e na parte das colunas não foi muito fácil. Enviar para o Git
 Compreendi melhor algumas ferramentas do photoshop, a organizar melhor o código com suas propriedades e a arrumar o layoult e seus espaçamentos.
 
 ## Tecnologias e ferramentas utilizadas--
-
 - GitHub
 - Git
 - HTML 5
 - CSS 3
-
 - Photoshop
 - ferramenta do desenvolvedor do Google Chrome
 - Sublime Text 2
